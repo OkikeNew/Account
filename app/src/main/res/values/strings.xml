@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Account Demo</string>
+
+    <string name="forgot_password_msg">Merak etme! Lütfen hesabınızla ilişkili e-posta adresini girin.</string>
+    <string name="on_submit_msg">Posta kutunuzu kontrol edin, şifrenizi sıfırlayabileceğiniz bağlantıyı içeren bir e-posta alacaksınız.</string>
+
+</resources>
